@@ -1,0 +1,42 @@
+
+.orange-header{
+    background-color: #F08F06;
+}
+
+.company-images{
+    background-image: url('./companies-dilectio.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 60vh;
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+}
+
+#text-container{
+    display: block;
+    position: absolute;
+    top: 82%;
+}
+
+#project-button{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.comp-img-top {
+    padding: 36px 16px 26px 16px;
+}
+
+.comp-img-mid {
+    padding: 0px 16px 26px 16px;
+}
+
+.comp-img-bottom {
+    padding: 0px 16px 49px 16px;
+}
+
+.two-column-imgs {
+    height: 104px;
+    width: auto;
+    margin-bottom: 26px;
+}

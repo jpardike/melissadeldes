@@ -1,0 +1,59 @@
+
+#image-row{
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.ben-m-img {
+    margin: 15px auto 30px auto;
+}
+
+.space{
+    width: 1px;
+}
+
+#benefits-info-row{
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.benefits-info-title{
+    padding-bottom: 15px;
+    color: #F08F06;
+}
+
+.ben-m-title {
+    margin: 0px 16px 7px 16px;
+}
+
+.ben-m-para {
+    margin: 0px 16px 43px 16px;
+}
+
+.vertical-line{
+    width: 2px;
+    border-left: 1px solid #C5C5C5;
+}
+
+.mobile-line {
+    box-sizing: border-box;
+    height: 1px;
+    border: 1px solid #C5C5C5;
+    margin: 0px 16px 15px 16px;
+}
+
+.buttons{
+    background-color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 300;
+    color: #42068A;
+    box-sizing: border-box;
+    height: 49px;
+    width: 202px;
+    border: 2px solid #42068A;
+}
+
+.buttons:hover {
+    color: #F08F06;
+    border: 2px solid #F08F06;
+}

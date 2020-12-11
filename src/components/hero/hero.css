@@ -1,0 +1,94 @@
+@media all and (max-width: 767.98px) {
+    #hero-image {
+        background-image: linear-gradient( hsla(271, 100%, 10%, 0.65) , hsla(271, 100%, 10%, 0.65)), url('./HeroBG.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        background-position: center;
+        position: relative;
+        background-attachment: fixed;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    #logo-image {
+        background-image: url('./Contact\ BG.svg');
+        background-size: 40%;
+        background-repeat: no-repeat;
+        height: 100vh;
+        background-position: 80% 80%;
+        position: relative;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .hero-text {
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+    #top-text {
+        padding: 25% 24px 0px 24px;
+    }
+
+    #bottom-text {
+        padding: 0px 24px;
+    }
+}
+
+@media all and (min-width: 768px) {
+    #hero-image {
+        background-image: linear-gradient(rgba(23, 23, 23, 0.4), rgba(23, 23, 23, 0.4)), url('./HeroBGbw.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        background-position: center;
+        position: relative;
+        background-attachment: fixed;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    #logo-image {
+        background-image: url('./HeroPurpleBG(1).svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        background-position: center;
+        position: relative;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    #top-text {
+        display: block;
+        position: absolute;
+        top: 17%;
+        left: 0%;
+        padding: 0;
+        margin-left: 56px;
+        margin-right: 56px;
+    }
+    
+    #bottom-text {
+        display: block;
+        position: absolute;
+        bottom: 10%;
+        right: 0%;
+        padding: 0;
+        margin-left: 56px;
+        margin-right: 56px;
+    }
+
+    .hero-text {
+        font-size: 30px;
+        font-weight: 300;
+    }
+}
+
+
+
+.hero-text {
+    color: #FFFFFF;
+}
+

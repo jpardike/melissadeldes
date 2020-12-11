@@ -1,0 +1,75 @@
+
+@media all and (max-width: 767.98px) {
+    .orange,
+    .white {
+        font-size: 24px;
+    }
+
+    .navbar-brand {
+        margin: 13px auto 16px 14px;
+        padding: 0px;
+    }
+
+    #hamburger-btn,
+    #right-nav {
+        margin: 17px 11px 24px auto;
+        padding: 0px;
+    }
+
+    .nav-link {
+        font-size: 20px;
+        padding: 13px 11px 13px 15px;
+        margin-left: 15px;
+    }
+}
+
+@media all and (min-width: 768px) {
+    .navbar-brand {
+        margin: 29px auto 18px 55px;
+        padding: 0px;
+    }
+    
+    #right-nav {
+        margin: 30px 66px 28px auto;
+        padding: 0px;
+    }
+}
+
+#nav-bar {
+    background-color: #42068A;
+    padding: 0px;
+    margin: 0px;
+}
+
+.orange {
+    color: #F08F06;
+    font-weight: 600;
+}
+
+.white {
+    color: #FFFFFF;
+    font-weight: 300;
+}
+
+.navbar-toggler {
+    padding: 0px;
+    margin: 0px;
+}
+
+#hamburger-btn {
+    height: 20px;
+    width: 43px;
+}
+
+
+.nav-link {
+    font-size: 28px;
+    padding: 0;
+}
+
+
+#emailImage {
+    height: 33px;
+    width: 51px;
+    padding: 0;
+}

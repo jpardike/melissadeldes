@@ -1,0 +1,114 @@
+@media all and (max-width: 767.98px) {
+    #mobile-hotel-bg {
+        background-image: linear-gradient( rgba(255,255,255,0.7), rgba(255,255,255,0.7) ), url('./MBHotelBG.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    #hotel-title {
+        font-size: 21px;
+        line-height: 25px;
+        padding: 46px 17px 43px 17px;
+    }
+
+    #hotel-para-title-top,
+    #hotel-para-title-bottom {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 0px 17px 8px 17px;
+    }
+
+    #hotel-para-top {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 0px 17px 42px 17px;
+    }
+
+    #hotel-para-bottom {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 0px 17px 32px 17px;
+    }
+
+    #mobile-hotel-app-image {
+        padding: 0px 17px 44px 17px;
+    }
+}
+
+@media all and (min-width: 768px) {
+    #hotel-column-bg {
+        background-image: linear-gradient( rgba(255,255,255,0.7), rgba(255,255,255,0.7) ), url('./HotelBG.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    #hotel-title {
+        font-size: 28px;
+        line-height: 34px;
+        padding: 150px 56px 39px 56px;
+    }
+
+    #hotel-para-title-top {
+        font-size: 24px;
+        line-height: 29px;
+        padding: 0px 94px;
+    }
+
+    #hotel-para-title-bottom {
+        font-size: 24px;
+        line-height: 29px;
+        padding: 39px 94px 0px 94px;
+    }
+
+    #hotel-para-top {
+        font-size: 24px;
+        line-height: 29px;
+        padding: 0px 94px;
+    }
+
+    #hotel-para-bottom {
+        font-size: 24px;
+        line-height: 29px;
+        padding: 0px 94px 150px 94px;
+    }
+
+    #hotel-app-image {
+        padding: 150px 0px;
+        width: 80%;
+        height: auto;
+    }
+}
+
+#hotel-title {
+    color: #171717;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+
+#hotel-para-title-top {
+    font-weight: 600;
+    letter-spacing: 0;
+}
+
+#hotel-para-title-bottom {
+    font-weight: 600;
+    letter-spacing: 0;
+}
+
+#hotel-para-top {
+    font-weight: 500;
+    letter-spacing: 0;
+}
+
+#hotel-para-bottom {
+    font-weight: 500;
+    letter-spacing: 0;
+}
